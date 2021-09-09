@@ -12,3 +12,4 @@ const fetchData = async () => {
     }
 }
  
+console.log("App JS")
